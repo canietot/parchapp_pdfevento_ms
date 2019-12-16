@@ -1,0 +1,5 @@
+parchapp/event/JAXRSConfiguration.class
+parchapp/event/model/Event.class
+parchapp/event/service/EventService.class
+parchapp/event/util/GeneratePdfReport.class
+parchapp/event/resource/EventResource.class

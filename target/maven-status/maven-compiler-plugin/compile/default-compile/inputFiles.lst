@@ -1,0 +1,5 @@
+/home/carlos/Unal/arqui/git/parchapp_pdfevento_ms/src/main/java/parchapp/event/resource/EventResource.java
+/home/carlos/Unal/arqui/git/parchapp_pdfevento_ms/src/main/java/parchapp/event/model/Event.java
+/home/carlos/Unal/arqui/git/parchapp_pdfevento_ms/src/main/java/parchapp/event/service/EventService.java
+/home/carlos/Unal/arqui/git/parchapp_pdfevento_ms/src/main/java/parchapp/event/JAXRSConfiguration.java
+/home/carlos/Unal/arqui/git/parchapp_pdfevento_ms/src/main/java/parchapp/event/util/GeneratePdfReport.java
